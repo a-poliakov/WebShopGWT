@@ -16,7 +16,7 @@
 
         <spring.version>4.3.9.RELEASE</spring.version>
         <spring.security.version>4.2.0.RELEASE</spring.security.version>
-        <hibernate-version>5.2.4.Final</hibernate-version>
+        <hibernate-version>5.3.20.Final</hibernate-version>
         <jackson.version>2.7.8</jackson.version>
         <gwt.version>2.8.1</gwt.version>
 
